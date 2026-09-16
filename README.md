@@ -1,2 +1,17 @@
 # The-Last-Crumb
-Little game me and a good friend made together. Everything in game was made by us, no AI. Pure human stupidity at work. Genuinely more fun than I thought it'd be. 
+Little game me and a good friend made together. Everything in game was made by us, no AI was used for the art and design. Pure human stupidity at work. Genuinely more fun than I thought it'd be. 
+
+The Team:
+Rudra-RR
+SURVIVALPNK
+
+Project Overview
+A small game we made based on an idea that just popped up one day. 
+
+We used AI for quicker prototyping, while we focused on UX, design, and debugging. 
+
+This was a group project. Because of our multidisciplinary interests, we created the assets by hand, brainstormed the game design, and debugged the entire project. 
+Art and Design: We manually created and animated each individual sprite and background using Piskel. We also balanced the flow of the game, designed battle pacing, and worked on the enemy and ally AI. 
+
+Fun note: Something we overlooked on our first prototype was the jump height. We had set it too low to actually jump over Mouse Knight or Duke, which meant he quickly put you in a corner. Took us a few trials to figure out why this current design wasn't working. Once the jump was fixed, the fight became a lot more fair, and is quite fun even on hard mode, if I do say so myself.                                              
+                                                                                      - Rudra-RR
