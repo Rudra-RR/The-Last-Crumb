@@ -8,7 +8,7 @@ SURVIVALPNK
 Project Overview
 A small game we made based on an idea that just popped up one day. 
 
-We used AI for quicker prototyping, while we focused on UX, design, and debugging. 
+AI was used for faster prototyping, but merely as a compiler for our logic. The game loop, enemy behaviour, and layouts were all created by us, while AI was used to help us test our assets in a live environment faster. 
 
 This was a group project. Because of our multidisciplinary interests, we created the assets by hand, brainstormed the game design, and debugged the entire project. 
 Art and Design: We manually created and animated each individual sprite and background using Piskel. We also balanced the flow of the game, designed battle pacing, and worked on the enemy and ally AI. 
