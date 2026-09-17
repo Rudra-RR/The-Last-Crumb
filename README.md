@@ -3,7 +3,7 @@ Little game me and a good friend made together. All the assets were made by us, 
 
 The Team:
 Rudra-RR
-SURVIVALPNK
+SURVIVALPNK (Panache K)
 
 Project Overview
 A small game we made based on an idea that just popped up one day. 
