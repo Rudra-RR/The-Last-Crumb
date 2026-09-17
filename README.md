@@ -2,7 +2,7 @@
 Little game me and a good friend made together. All the assets were made by us, no AI was used for the art and design. Pure human stupidity at work. Genuinely more fun than I thought it'd be. 
 
 The Team:
-Rudra-RR
+Rudra-RR, 
 SURVIVALPNK (Panache K)
 
 Project Overview
